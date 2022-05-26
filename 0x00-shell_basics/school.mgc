@@ -1,2 +1,2 @@
 #!/bin/bash
-file --mime-typ0 string school
+file --mime-type string school
